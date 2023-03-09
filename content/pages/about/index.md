@@ -1,13 +1,9 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+joscha.schindele@gymkirchenfeld.ch
 
-## My Name
-
-mail@example.org
-
-Here should be some info about me...
+Français

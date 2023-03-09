@@ -4,4 +4,4 @@ draft = false
 image = ""
 description = ""
 +++
-joscha.schindele@gymkirchenfeld.ch
+joscha.schindele ät gymkirchenfeld punkt ch

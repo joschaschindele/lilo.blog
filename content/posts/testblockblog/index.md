@@ -8,6 +8,14 @@ footnotes = "Goethe"
 +++
 # **Dies ist ein Testtitel**
 
+{{<lead>}}
+
+Ein Lead steht zwischen zwei solchen Blöcken.
+
+{{</lead>}}
+
+
+
 > Und ein Testzitat
 
 1. Will  ich das?

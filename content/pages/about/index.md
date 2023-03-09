@@ -5,5 +5,3 @@ image = ""
 description = ""
 +++
 joscha.schindele@gymkirchenfeld.ch
-
-Français
